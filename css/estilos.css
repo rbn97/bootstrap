@@ -1,0 +1,35 @@
+body{
+    background: linear-gradient(#383535, #6571ec);
+}
+h1{
+    color: white;
+    text-align: center;
+    padding: 40px;
+    font-weight: bold;
+}
+h5{
+    color: gold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+h6{
+    color: khaki;
+}
+.scroll{
+    max-height: 120px;
+    overflow-y: auto;
+    padding-left: 20px;
+    scrollbar-width: thin;
+    border: 1px white solid;
+}
+.sinopsis, .taquilla, .enlaces{
+    margin-bottom: 10px;
+}
+.card{
+    background-color: #423e68;
+    color: white;
+    border: none;    
+}
+a{
+    color: aqua;
+}
